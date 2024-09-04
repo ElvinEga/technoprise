@@ -2,6 +2,9 @@
 
 Technoprise is a simple mobile application built using Flutter that allows users to manage a list of items. Each item consists of a title and a description. The app provides features to add new items via a form and delete existing items from the list. The app is designed to be responsive and compatible with both iOS and Android platforms.
 
+![screenshot-2024-09-04_18 54 53 969](https://github.com/user-attachments/assets/bc0616fb-d614-4f57-9cfd-c0db9993c310)
+![screenshot-2024-09-04_18 55 02 255](https://github.com/user-attachments/assets/076b1f87-db6e-445b-a825-0c57f87b2b67)
+
 ## Features
 
 - **Display List of Items**: The app displays a list of items, each with a title and description.
